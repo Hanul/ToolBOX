@@ -1,6 +1,7 @@
 ToolBOX.MAIN = METHOD({
 
-	run : function(params) {'use strict';
+	run : function(params) {
+		'use strict';
 
 		ToolBOX.MATCH_VIEW({
 			uri : '',
